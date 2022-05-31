@@ -1,0 +1,12 @@
+{
+  "for": ["anvil"],
+  "requires": [
+    {
+      "item": "minicraft:gold",
+      "amount": 10
+    }
+  ],
+  "product": {
+    "item": "minicraft:gold_armor"
+  }
+}

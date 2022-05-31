@@ -1,0 +1,30 @@
+{
+  size: [5, 5],
+  palette: [
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_bricks" },
+    { name: "minicraft:stone_wall" },
+    { name: "minicraft:stone_wall" }
+  ]
+}

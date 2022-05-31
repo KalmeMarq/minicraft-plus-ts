@@ -1,0 +1,19 @@
+{
+  "name": "minicraft-plus-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "vite": "^2.9.1"
+  },
+  "dependencies": {
+    "idb": "^7.0.1",
+    "pixi.js": "^6.3.2"
+  }
+}

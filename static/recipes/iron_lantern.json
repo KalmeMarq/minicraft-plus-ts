@@ -1,0 +1,16 @@
+{
+  "for": ["anvil"],
+  "requires": [
+    {
+      "item": "minicraft:iron",
+      "amount": 8
+    },
+    {
+      "item": "minicraft:slime",
+      "amount": 5
+    }
+  ],
+  "product": {
+    "item": "minicraft:iron_lantern"
+  }
+}

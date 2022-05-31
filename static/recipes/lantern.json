@@ -1,0 +1,20 @@
+{
+  "for": ["workbench"],
+  "requires": [
+    {
+      "item": "minicraft:wood",
+      "amount": 8
+    },
+    {
+      "item": "minicraft:slime",
+      "amount": 4
+    },
+    {
+      "item": "minicraft:glass",
+      "amount": 3
+    }
+  ],
+  "product": {
+    "item": "minicraft:lantern"
+  }
+}

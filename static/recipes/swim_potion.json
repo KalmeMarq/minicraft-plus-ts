@@ -1,0 +1,15 @@
+{
+  "for": ["enchant"],
+  "requires": [
+    {
+      "item": "minicraft:potion"
+    },
+    {
+      "item": "minicraft:raw_fish",
+      "amount": 5
+    }
+  ],
+  "product": {
+    "item": "minicraft:swim_potion"
+  }
+}

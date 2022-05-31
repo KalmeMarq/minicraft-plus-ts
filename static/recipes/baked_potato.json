@@ -1,0 +1,11 @@
+{
+  "for": ["oven"],
+  "requires": [
+    {
+      "item": "minicraft:potato"
+    }
+  ],
+  "product": {
+    "item": "minicraft:baked_potato"
+  }
+}

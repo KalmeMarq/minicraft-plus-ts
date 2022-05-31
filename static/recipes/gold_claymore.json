@@ -1,0 +1,15 @@
+{
+  "for": ["anvil"],
+  "requires": [
+    {
+      "item": "minicraft:gold sword"
+    },
+    {
+      "item": "minicraft:shard",
+      "amount": 15
+    }
+  ],
+  "product": {
+    "item": "minicraft:gold_claymore"
+  }
+}

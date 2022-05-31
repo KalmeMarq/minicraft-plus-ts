@@ -1,0 +1,30 @@
+{
+  size: [5, 5],
+  palette: [
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian" },
+    { "name": "minicraft:obsidian" },
+    { "name": "minicraft:obsidian" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian" },
+    { "name": "minicraft:obsidian" },
+    { "name": "minicraft:obsidian" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian" },
+    { "name": "minicraft:obsidian" },
+    { "name": "minicraft:obsidian" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" },
+    { "name": "minicraft:obsidian_wall" }
+  ]
+}

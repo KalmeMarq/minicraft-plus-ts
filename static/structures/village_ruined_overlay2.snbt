@@ -1,0 +1,30 @@
+{
+  size: [5, 5],
+  palette: [
+    { name: "minicraft:wood_planks" },
+    {},
+    {},
+    { name: "minicraft:grass" },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    { name: "minicraft:grass" },
+    { name: "minicraft:grass" },
+    {},
+    {},
+    { name: "minicraft:wood_planks" },
+    {},
+    {},
+    { name: "minicraft:grass" },
+    {},
+    {},
+    { name: "minicraft:wood_planks" },
+    {},
+    {},
+    { name: "minicraft:grass" }
+  ]
+}

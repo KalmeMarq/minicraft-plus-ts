@@ -1,0 +1,15 @@
+{
+  "for": ["enchant"],
+  "requires": [
+    {
+      "item": "minicraft:potion"
+    },
+    {
+      "item": "minicraft:gem",
+      "amount": 25
+    }
+  ],
+  "product": {
+    "item": "minicraft:energy_potion"
+  }
+}

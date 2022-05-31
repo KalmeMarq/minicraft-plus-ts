@@ -1,0 +1,40 @@
+{
+  "localizations": [
+    {
+      "code": "en_us",
+      "name": "English (US)"
+    },
+    {
+      "code": "fr_fr",
+      "name": "French (France)"
+    },
+    {
+      "code": "hu_hu",
+      "name": "Hungarian (Hungary)"
+    },
+    {
+      "code": "id_id",
+      "name": "Indonesian (Indonesia)"
+    },
+    {
+      "code": "it_it",
+      "name": "Italian (Italia)"
+    },
+    {
+      "code": "nb_no",
+      "name": "Norwegian (Norway)"
+    },
+    {
+      "code": "pt_pt",
+      "name": "Portuguese (Portugal)"
+    },
+    {
+      "code": "es_es",
+      "name": "Spanish (Spain)"
+    },
+    {
+      "code": "tr_tr",
+      "name": "Turkish (Turkey)"
+    }
+  ]
+}

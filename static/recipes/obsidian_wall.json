@@ -1,0 +1,12 @@
+{
+  "for": ["workbench"],
+  "requires": [
+    {
+      "item": "minicraft:obsidian_brick",
+      "amount": 3
+    }
+  ],
+  "product": {
+    "item": "minicraft:obsidian_wall"
+  }
+}

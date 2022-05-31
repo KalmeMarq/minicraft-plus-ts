@@ -1,0 +1,24 @@
+{
+  "skins": [
+    {
+      "id": "minicraft:paul",
+      "key": "skins.minicraft.paul",
+      "texture": "textures/skin/paul.png"
+    },
+    {
+      "id": "minicraft:paul_with_cape",
+      "key": "skins.minicraft.paul_with_cape",
+      "texture": "textures/skin/paul_with_cape.png"
+    },
+    {
+      "id": "minicraft:familiar_boy",
+      "key": "skins.minicraft.familiar_boy",
+      "texture": "textures/skin/familiar_boy.png"
+    },
+    {
+      "id": "minicraft:familiar_girl",
+      "key": "skins.minicraft.familiar_girl",
+      "texture": "textures/skin/familiar_girl.png"
+    }
+  ]
+}

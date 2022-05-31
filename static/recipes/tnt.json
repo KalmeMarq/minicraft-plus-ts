@@ -1,0 +1,16 @@
+{
+  "for": ["workbench"],
+  "requires": [
+    {
+      "item": "minicraft:gunpowder",
+      "amount": 10
+    },
+    {
+      "item": "minicraft:sand",
+      "amount": 8
+    }
+  ],
+  "product": {
+    "item": "minicraft:tnt"
+  }
+}

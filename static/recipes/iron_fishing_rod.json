@@ -1,0 +1,16 @@
+{
+  "for": ["workbench"],
+  "requires": [
+    {
+      "item": "minicraft:iron",
+      "amount": 10
+    },
+    {
+      "item": "minicraft:string",
+      "amount": 3
+    }
+  ],
+  "product": {
+    "item": "minicraft:iron_fishing_rod"
+  }
+}

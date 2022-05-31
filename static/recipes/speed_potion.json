@@ -1,0 +1,15 @@
+{
+  "for": ["enchant"],
+  "requires": [
+    {
+      "item": "minicraft:potion"
+    },
+    {
+      "item": "minicraft:cactus",
+      "amount": 5
+    }
+  ],
+  "product": {
+    "item": "minicraft:speed_potion"
+  }
+}

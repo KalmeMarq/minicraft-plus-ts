@@ -1,0 +1,16 @@
+{
+  "for": ["workbench"],
+  "requires": [
+    {
+      "item": "minicraft:gold",
+      "amount": 10
+    },
+    {
+      "item": "minicraft:string",
+      "amount": 3
+    }
+  ],
+  "product": {
+    "item": "minicraft:gold_fishing_rod"
+  }
+}

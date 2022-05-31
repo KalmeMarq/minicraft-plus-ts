@@ -1,0 +1,12 @@
+{
+  "for": ["workbench", "loom"],
+  "requires": [
+    {
+      "item": "minicraft:leather",
+      "amount": 10
+    }
+  ],
+  "product": {
+    "item": "minicraft:leather_armor"
+  }
+}

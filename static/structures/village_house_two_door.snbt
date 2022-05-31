@@ -1,0 +1,30 @@
+{
+  size: [5, 5],
+  palette: [
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_door" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_planks" },
+    { name: "minicraft:wood_wall" },
+    { name: "minicraft:wood_wall" }
+  ]
+}

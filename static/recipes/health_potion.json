@@ -1,0 +1,18 @@
+{
+  "for": ["enchant"],
+  "requires": [
+    {
+      "item": "minicraft:potion"
+    },
+    {
+      "item": "minicraft:gunpowder",
+      "amount": 2
+    },
+    {
+      "item": "minicraft:leather_armor"
+    }
+  ],
+  "product": {
+    "item": "minicraft:health_potion"
+  }
+}

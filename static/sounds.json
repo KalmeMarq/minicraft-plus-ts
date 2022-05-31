@@ -1,0 +1,50 @@
+{
+  "music.menu": {
+    "sound": "music/menu.wav",
+    "volume": 1.0
+  },
+  "music.game": {
+    "sound": "music/game.wav",
+    "volume": 1.0
+  },
+  "entity.item.pickup": {
+    "sound": "entity/pickup.wav",
+    "volume": 1.0
+  },
+  "entity.tnt.fuse": {
+    "sound": "entity/fuse.wav",
+    "volume": 1.0
+  },
+  "entity.generic.explode": {
+    "sound": "entity/explode.wav",
+    "volume": 1.0
+  },
+  "entity.player.hurt": {
+    "sound": "entity/player_hurt.wav",
+    "volume": 1.0
+  },
+  "entity.monster.hurt": {
+    "sound": "entity/monster_hurt.wav",
+    "volume": 1.0
+  },
+  "entity.boss.death": {
+    "sound": "entity/boss_death.wav",
+    "volume": 1.0
+  },
+  "entity.death": {
+    "sound": "entity/death.wav",
+    "volume": 1.0
+  },
+  "ui.select": {
+    "sound": "ui/select.wav",
+    "volume": 1.0
+  },
+  "ui.confirm": {
+    "sound": "ui/confirm.wav",
+    "volume": 1.0
+  },
+  "ui.craft": {
+    "sound": "ui/craft.wav",
+    "volume": 1.0
+  }
+}
