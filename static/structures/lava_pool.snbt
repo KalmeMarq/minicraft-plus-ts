@@ -1,9 +1,0 @@
-{
-  size: [2, 2],
-  palette: [
-    { name: "minicraft:lava" },
-    { name: "minicraft:lava" },
-    { name: "minicraft:lava" },
-    { name: "minicraft:lava" }
-  ]
-}
