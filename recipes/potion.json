@@ -1,0 +1,15 @@
+{
+  "for": ["enchant"],
+  "requires": [
+    {
+      "item": "minicraft:glass"
+    },
+    {
+      "item": "minicraft:lapis",
+      "amount": 3
+    }
+  ],
+  "product": {
+    "item": "minicraft:potion"
+  }
+}

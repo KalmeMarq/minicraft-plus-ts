@@ -1,0 +1,12 @@
+{
+  "for": ["anvil"],
+  "requires": [
+    {
+      "item": "minicraft:iron",
+      "amount": 5
+    }
+  ],
+  "product": {
+    "item": "minicraft:empty_bucket"
+  }
+}

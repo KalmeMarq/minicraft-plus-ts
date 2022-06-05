@@ -1,0 +1,15 @@
+{
+  "for": ["furnace"],
+  "requires": [
+    {
+      "item": "minicraft:iron_ore",
+      "amount": 4
+    },
+    {
+      "item": "minicraft:coal"
+    }
+  ],
+  "product": {
+    "item": "minicraft:iron"
+  }
+}

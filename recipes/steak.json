@@ -1,0 +1,14 @@
+{
+  "for": ["oven"],
+  "requires": [
+    {
+      "item": "minicraft:raw_beef"
+    },
+    {
+      "item": "minicraft:coal"
+    }
+  ],
+  "product": {
+    "item": "minicraft:steak"
+  }
+}

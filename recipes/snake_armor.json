@@ -1,0 +1,12 @@
+{
+  "for": ["workbench"],
+  "requires": [
+    {
+      "item": "minicraft:scale",
+      "amount": 15
+    }
+  ],
+  "product": {
+    "item": "minicraft:snake_armor"
+  }
+}

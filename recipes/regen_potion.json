@@ -1,0 +1,14 @@
+{
+  "for": ["enchant"],
+  "requires": [
+    {
+      "item": "minicraft:potion"
+    },
+    {
+      "item": "minicraft:gold_apple"
+    }
+  ],
+  "product": {
+    "item": "minicraft:regen_potion"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "for": ["workbench"],
+  "requires": [
+    {
+      "item": "minicraft:stone_brick",
+      "amount": 5
+    }
+  ],
+  "product": {
+    "item": "minicraft:stone_door"
+  }
+}

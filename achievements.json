@@ -1,0 +1,84 @@
+{
+  "achievements": [
+    {
+      "id": "minicraft:woodcutter",
+      "description": "achievements.woodcutter.description",
+      "score": 5
+    },
+    {
+      "id": "minicraft:benchmarking",
+      "description": "achievements.benchmarking.description",
+      "score": 10
+    },
+    {
+      "id": "minicraft:upgrade",
+      "description": "achievements.upgrade.description",
+      "score": 10
+    },
+    {
+      "id": "minicraft:bow",
+      "description": "achievements.bow.description",
+      "score": 10
+    },
+    {
+      "id": "minicraft:fish",
+      "description": "achievements.fish.description",
+      "score": 5
+    },
+    {
+      "id": "minicraft:doors",
+      "description": "achievements.doors.description",
+      "score": 5
+    },
+    {
+      "id": "minicraft:planks",
+      "description": "achievements.planks.description",
+      "score": 5
+    },
+    {
+      "id": "minicraft:clothes",
+      "description": "achievements.clothes.description",
+      "score": 5
+    },
+    {
+      "id": "minicraft:demolition",
+      "description": "achievements.demolition.description",
+      "score": 10
+    },
+    {
+      "id": "minicraft:lava",
+      "description": "achievements.lava.description",
+      "score": 15
+    },
+    {
+      "id": "minicraft:find_gem",
+      "description": "achievements.find_gem.description",
+      "score": 20
+    },
+    {
+      "id": "minicraft:lowest_caves",
+      "description": "achievements.lowest_caves.description",
+      "score": 25
+    },
+    {
+      "id": "minicraft:obsidian_dungeon",
+      "description": "achievements.obsidian_dungeon.description",
+      "score": 25
+    },
+    {
+      "id": "minicraft:airwizard",
+      "description": "achievements.airwizard.description",
+      "score": 25
+    },
+    {
+      "id": "minicraft:second_airwizard",
+      "description": "achievements.second_airwizard.description",
+      "score": 25
+    },
+    {
+      "id": "minicraft:skin",
+      "description": "achievements.skin.description",
+      "score": 10
+    }
+  ]
+}

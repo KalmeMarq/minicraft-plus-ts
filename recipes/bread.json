@@ -1,0 +1,12 @@
+{
+  "for": ["oven"],
+  "requires": [
+    {
+      "item": "minicraft:wheat",
+      "amount": 4
+    }
+  ],
+  "product": {
+    "item": "minicraft:bread"
+  }
+}

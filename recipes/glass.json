@@ -1,0 +1,15 @@
+{
+  "for": ["furnace"],
+  "requires": [
+    {
+      "item": "minicraft:sand",
+      "amount": 4
+    },
+    {
+      "item": "minicraft:coal"
+    }
+  ],
+  "product": {
+    "item": "minicraft:glass"
+  }
+}

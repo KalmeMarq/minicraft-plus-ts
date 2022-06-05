@@ -1,0 +1,19 @@
+{
+  "for": ["enchant"],
+  "requires": [
+    {
+      "item": "minicraft:potion"
+    },
+    {
+      "item": "minicraft:gunpowder",
+      "amount": 3
+    },
+    {
+      "item": "minicraft:lapis",
+      "amount": 6
+    }
+  ],
+  "product": {
+    "item": "minicraft:escape_potion"
+  }
+}

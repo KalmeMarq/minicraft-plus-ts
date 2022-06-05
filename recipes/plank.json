@@ -1,0 +1,12 @@
+{
+  "for": ["craft"],
+  "requires": [
+    {
+      "item": "minicraft:wood"
+    }
+  ],
+  "product": {
+    "item": "minicraft:plank",
+    "amount": 2
+  }
+}

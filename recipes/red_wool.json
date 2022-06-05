@@ -1,0 +1,14 @@
+{
+  "for": ["loom"],
+  "requires": [
+    {
+      "item": "minicraft:wool"
+    },
+    {
+      "item": "minicraft:rose"
+    }
+  ],
+  "product": {
+    "item": "minicraft:red_wool"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "for": ["loom"],
+  "requires": [
+    {
+      "item": "minicraft:cloth",
+      "amount": 5
+    },
+    {
+      "item": "minicraft:cactus"
+    }
+  ],
+  "product": {
+    "item": "minicraft:green_clothes"
+  }
+}

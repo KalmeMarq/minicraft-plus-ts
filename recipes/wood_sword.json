@@ -1,0 +1,12 @@
+{
+  "for": ["workbench"],
+  "requires": [
+    {
+      "item": "minicraft:wood",
+      "amount": 5
+    }
+  ],
+  "product": {
+    "item": "minicraft:wood_sword"
+  }
+}

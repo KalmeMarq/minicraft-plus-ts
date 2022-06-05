@@ -1,0 +1,16 @@
+{
+  "for": ["workbench"],
+  "requires": [
+    {
+      "item": "minicraft:wood",
+      "amount": 10
+    },
+    {
+      "item": "minicraft:wool",
+      "amount": 5
+    }
+  ],
+  "product": {
+    "item": "minicraft:loom"
+  }
+}

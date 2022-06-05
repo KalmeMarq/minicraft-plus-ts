@@ -1,0 +1,15 @@
+{
+  "for": ["anvil"],
+  "requires": [
+    {
+      "item": "minicraft:iron_sword"
+    },
+    {
+      "item": "minicraft:shard",
+      "amount": 15
+    }
+  ],
+  "product": {
+    "item": "minicraft:iron_sword"
+  }
+}
